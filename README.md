@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghpratik&label=Profile%20views&color=0e75b6&style=flat" alt="ghpratik" /> </p>
 
-- 💬 Ask me about **MERN, NextJS, TypeScript, AWS, Docker, react Native**
+- 💬 Ask me about **MERN, NextJS, TypeScript, AWS, Docker, React Native, Tailwind**
 
 - 📫 How to reach me **pratik2000gaikwad@outlook.com**
 
